@@ -414,6 +414,13 @@ section {
   font-style: normal;
 }
 
+.skills .progress .skill .level {
+  float: left;
+  position: relative;
+  left: 45%;
+  font-style: normal;
+}
+
 .skills .progress-bar-wrap {
   background: #dce8f8;
 }
